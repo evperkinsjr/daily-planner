@@ -4,7 +4,7 @@ $('#currentDay').text(moment().format('dddd, MMMM Do'));
 // Listen for save button clicks
 $('.saveBtn').on('click', function () {
     var userInput = $(this).siblings('.description').val();
-    var hour = $(this).parent().attr('.id');
+    var hour = $(this).parent().attr('id');
 
     localStorage.setItem(hour, userInput);
 });
