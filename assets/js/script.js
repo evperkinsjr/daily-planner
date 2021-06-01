@@ -9,10 +9,29 @@ $('.saveBtn').on('click', function () {
     localStorage.setItem(hour, userInput);
 });
 
-// Current number of hours
+// Time Block Hour Status
+function hourStatus() {
+    var currentHour = moment().hours();
 
-// Check if block is past, present or future
+    $('.time-block').each(function () {
+        var timeBlockHour = parseInt($(this).attr('id').split('-')[1]);
 
+        // Check if time block is past, present or future
+        if (timeBlockHour < currentHour) {
+            $(this).addClass('past');
+        } else if (timeBlockHour === currentHour) {
+            $(this).removeClass('past');
+            $(this).addClass('present');
+        } else {
+            $(this).removeClass('past');
+            $(this).removeClass('present');
+            $(this).addClass('future');
+        }
+
+    });
+}
+
+hourStatus();
 
 // Load data from localStorage
 $('#hour-6 .description').val(localStorage.getItem('hour-6'));
