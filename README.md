@@ -9,7 +9,7 @@ I created a simple calendar application that allows a user to save events for ea
 4. When the user clicks in a time block, they can add an event.
 5. When the user clicks the blue save button, their event text is saved to localStorage.
 
-Link to live webpage: [Work Day Scheduler](#)
+Link to live webpage: [Work Day Scheduler](https://evperkinsjr.github.io/work-day-scheduler/)
 
 ## Screenshot
 ![Work Day Scheduler Screenshot](./assets/images/work-day-scheduler-screenshot.png)
