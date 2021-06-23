@@ -11,8 +11,12 @@ I created a simple calendar application that allows a user to save events for ea
 
 Link to live webpage: [Work Day Scheduler](https://evperkinsjr.github.io/work-day-scheduler/)
 
+<p>&nbsp</p>
+
 ## Screenshot
 ![Work Day Scheduler Screenshot](./assets/images/work-day-scheduler-screenshot.png)
+
+<p>&nbsp</p>
 
 ## Technologies Used
 
@@ -22,8 +26,12 @@ Link to live webpage: [Work Day Scheduler](https://evperkinsjr.github.io/work-da
 - jQuery
 - Bootstrap
 
+<p>&nbsp</p>
+
 ## Contact Information
 <enrico.perkins@gmail.com>
+
+<p>&nbsp</p>
 
 ## License
 This project is licensed under the terms of the MIT license.
