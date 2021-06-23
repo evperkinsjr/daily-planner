@@ -13,8 +13,8 @@ Link to live webpage: [Work Day Scheduler](https://evperkinsjr.github.io/work-da
 
 <p>&nbsp</p>
 
-## Screenshot
-![Work Day Scheduler Screenshot](./assets/images/work-day-scheduler-screenshot.png)
+## Mock-up
+![Work Day Scheduler Mock-up](./assets/images/work-day-scheduler-mockup.gif)
 
 <p>&nbsp</p>
 
