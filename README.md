@@ -24,3 +24,6 @@ Link to live webpage: [Work Day Scheduler](https://evperkinsjr.github.io/work-da
 
 ## Contact Information
 <enrico.perkins@gmail.com>
+
+## License
+This project is licensed under the terms of the MIT license.
