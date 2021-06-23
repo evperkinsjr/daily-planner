@@ -21,3 +21,6 @@ Link to live webpage: [Work Day Scheduler](https://evperkinsjr.github.io/work-da
 - JavaScript
 - jQuery
 - Bootstrap
+
+## Contact Information
+<enrico.perkins@gmail.com>
